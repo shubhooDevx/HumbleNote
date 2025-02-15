@@ -26,4 +26,4 @@
 ### Method 2: Manual Installation  
 1. Clone the repository or download the ZIP.  
    ```sh
-   git clone https://github.com/devshubho/humblenote.git
+   git clone https://github.com/shubhooDevx/HumbleNote.git
