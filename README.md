@@ -1,6 +1,6 @@
 # 🕊️ HumbleNote – WordPress Announcement Plugin  
 
-**HumbleNote** is a lightweight and easy-to-use WordPress plugin that allows admins to post and display announcements using shortcodes. It features a **custom pigeon notification icon** and a simple admin interface.  
+**HumbleNote** is a lightweight and easy-to-use WordPress plugin that allows admins to post and display announcements using shortcodes. It is a very lightweight plugin.  
 
 
 
