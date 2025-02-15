@@ -9,7 +9,6 @@
 ## ✨ Features  
 ✅ **Create & Manage Announcements** from the WordPress admin panel.  
 ✅ **Display Announcements** anywhere using the `[humblenote]` shortcode.  
-✅ **Custom Notification Icon** – A pigeon carrying a letter. 🕊️  
 ✅ **Easy Deletion & Editing** of announcements.  
 ✅ **Lightweight & Optimized** for performance.  
 
