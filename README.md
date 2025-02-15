@@ -1,20 +1,29 @@
-## **HumbleNote – A Simple & Elegant Note-Taking Plugin for WordPress**  
+# 🕊️ HumbleNote – WordPress Announcement Plugin  
 
-**HumbleNote** is a lightweight and user-friendly WordPress plugin designed for effortless note-taking. Whether you want to jot down quick ideas, draft content, or organize important notes, HumbleNote provides a smooth and distraction-free experience directly within your WordPress dashboard.  
+**HumbleNote** is a lightweight and easy-to-use WordPress plugin that allows admins to post and display announcements using shortcodes. It features a **custom pigeon notification icon** and a simple admin interface.  
 
- Features
-Easy Note-Taking – Create, edit, and manage notes within WordPress.  
-Rich Text Formatting– Supports bold, italic, lists, and more.  
-Auto-Save & Revisions– Never lose your notes with built-in autosave.  
-Categorization & Tags – Organize notes with custom tags and categories.  
-Responsive & Fast – Optimized for performance and mobile-friendly.  
-Secure & Private– Your notes are stored securely within WordPress.  
 
-🔧 How to Use:
-1. Install & activate the plugin.  
-2. Navigate to Dashboard → HumbleNote.  
-3. Click New Note, type, and save!  
 
-🔒License: 
-HumbleNote is licensed under the **MIT License**, meaning it’s free to use, modify, and distribute with proper attribution.  
+---
 
+## ✨ Features  
+✅ **Create & Manage Announcements** from the WordPress admin panel.  
+✅ **Display Announcements** anywhere using the `[humblenote]` shortcode.  
+✅ **Custom Notification Icon** – A pigeon carrying a letter. 🕊️  
+✅ **Easy Deletion & Editing** of announcements.  
+✅ **Lightweight & Optimized** for performance.  
+
+---
+
+## 🚀 Installation  
+
+### Method 1: Automatic Installation  
+1. Download the plugin ZIP file from the **Releases** section.  
+2. Go to **WordPress Dashboard → Plugins → Add New → Upload Plugin**.  
+3. Upload the ZIP file and click **Install Now**.  
+4. Activate the plugin from the **Plugins** menu.  
+
+### Method 2: Manual Installation  
+1. Clone the repository or download the ZIP.  
+   ```sh
+   git clone https://github.com/devshubho/humblenote.git
